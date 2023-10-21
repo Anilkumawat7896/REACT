@@ -1,0 +1,22 @@
+{
+  "name": "ignition_01",
+  "version": "1.0.0",
+  "description": "we are learning react together",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Anilkumawat7896/REACT)"
+  },
+  "keywords": [
+    "react",
+    "learnReact"
+  ],
+  "author": "AnilKumawat",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
