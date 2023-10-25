@@ -22,7 +22,22 @@ here we have replaced the cdn liks with the original import or the React and Rea
 - tree shaking (remove unused code for us)
 - different dev and production bundle
 
-
       if by mistake the `.parcel-cache forlder/directory`is deleted than at the time of build it will be reganrated so don't worry to much Golu 😂😂
 
       parcel is in one of the most resones for the production ready apps to run faster
+
+      after built of our app ` npx build index.html(or the starting or root file)` all the code we have written will be converted into 3 files which will be html css and javascript files and those files would contain the code we have written
+
+## Browser's List
+
+    we can give a list of brosers on which our app would be compaitible only --
+
+      example --:
+            " package.json"
+            broserslist:[
+                  "last 2 Chrome versions",
+                  "last 2 firefox versions",
+                  "last 2 versions",(this will cover all the broser with last two versions)
+            ]
+
+      here the "2" can very and it could be any versions of any browser

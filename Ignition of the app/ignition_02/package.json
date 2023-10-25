@@ -2,7 +2,7 @@
   "name": "ignition_02",
   "version": "1.0.0",
   "description": "Nothing new my friend",
-  "main": "App.js",
+
   "scripts": {
     "test": "jest"
   },
