@@ -1,4 +1,4 @@
-6445
+6447
 64E:\REACT\Ignition of the app\ignition_02\node_modules\nullthrows133423667838657709 1
 108E:\REACT\Ignition of the app\ignition_02\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133423667837356878 0
 82E:\REACT\Ignition of the app\ignition_02\node_modules\csso\lib\clean\WhiteSpace.js133423667846240883 0
@@ -12,7 +12,7 @@
 72E:\REACT\Ignition of the app\ignition_02\node_modules\timsort\LICENSE.md133423667838310509 0
 97E:\REACT\Ignition of the app\ignition_02\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133423679584398620 0
 90E:\REACT\Ignition of the app\ignition_02\node_modules\utility-types\dist\mapped-types.d.ts133423667841913566 0
-53E:\REACT\Ignition of the app\ignition_02\package.json133423681327075648 0
+53E:\REACT\Ignition of the app\ignition_02\package.json133426892445555857 0
 47E:\REACT\Ignition of the app\ignition_02\App.js133423704180860821 0
 80E:\REACT\Ignition of the app\ignition_02\node_modules\svgo\plugins\cleanupIds.js133423667840972531 0
 72E:\REACT\Ignition of the app\ignition_02\node_modules\domutils\readme.md133423667841833779 0
@@ -27,17 +27,17 @@
 82E:\REACT\Ignition of the app\ignition_02\node_modules\type-fest\source\except.d.ts133423667841327123 0
 71E:\REACT\Ignition of the app\ignition_02\node_modules\@msgpackr-extract133423679595892310 1
 66E:\REACT\Ignition of the app\ignition_02\node_modules\svgo\LICENSE133423667836750791 0
-51E:\REACT\Ignition of the app\ignition_02\.gitignore133423687794500174 0
+51E:\REACT\Ignition of the app\ignition_02\.gitignore133426983562660760 0
 105E:\REACT\Ignition of the app\ignition_02\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js.map133423679584647099 0
 99E:\REACT\Ignition of the app\ignition_02\node_modules\caniuse-lite\data\features\permissions-api.js133423667850951887 0
 62E:\REACT\Ignition of the app\ignition_02\node_modules\escalade133423667839745218 1
 118E:\REACT\Ignition of the app\ignition_02\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts133423667843477191 0
 122E:\REACT\Ignition of the app\ignition_02\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133423667846161097 0
 104E:\REACT\Ignition of the app\ignition_02\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure133423679588723856 1
-45E:\REACT\Ignition of the app\ignition_02\dist133426889027417242 1
+45E:\REACT\Ignition of the app\ignition_02\dist133426892516608179 1
 82E:\REACT\Ignition of the app\ignition_02\node_modules\css-tree\lib\syntax\function133423667848627888 1
 62E:\REACT\Ignition of the app\ignition_02\node_modules\posthtml133423667838657709 1
-50E:\REACT\Ignition of the app\ignition_02\Readme.md133426890562176120 0
+50E:\REACT\Ignition of the app\ignition_02\Readme.md133426989208899453 0
 80E:\REACT\Ignition of the app\ignition_02\node_modules\scheduler\unstable_mock.js133423668503587337 0
 60E:\REACT\Ignition of the app\ignition_02\node_modules\terser133423679586746915 1
 92E:\REACT\Ignition of the app\ignition_02\node_modules\caniuse-lite\data\features\temporal.js133423667851714722 0
@@ -6443,4 +6443,6 @@
 85E:\REACT\Ignition of the app\ignition_02\node_modules\.bin\update-browserslist-db.cmd133423667960865653 0
 69E:\REACT\Ignition of the app\ignition_02\dist\ignition_02.3464ddca.js133423672163213827 0
 73E:\REACT\Ignition of the app\ignition_02\dist\ignition_02.3464ddca.js.map133423672163213827 0
-56E:\REACT\Ignition of the app\ignition_02\dist\index.html133426889026397003 0
+63E:\REACT\Ignition of the app\ignition_02\dist\index.d9ca7465.js133426892516548363 0
+67E:\REACT\Ignition of the app\ignition_02\dist\index.d9ca7465.js.map133426892516608179 0
+56E:\REACT\Ignition of the app\ignition_02\dist\index.html133426892516548363 0
