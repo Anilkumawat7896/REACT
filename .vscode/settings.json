@@ -47,5 +47,6 @@
             "bold": false,
             "italic": false
         }
-    ]
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
