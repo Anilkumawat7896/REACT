@@ -55,3 +55,24 @@ li {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.body>.filter{
+  margin: 20px;
+  padding: 20px;
+}
+
+.filter-btn{
+  background-color: rgba(243, 137, 137, 0.851);
+  color: rgb(244, 235, 235);
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+
+.filter-btn:hover{
+  background-color: rgba(253, 10, 10, 0.851);
+  color: rgb(244, 240, 240);
+  cursor: pointer;
+  padding: 10px;
+
+}
