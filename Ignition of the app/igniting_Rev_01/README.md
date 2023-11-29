@@ -37,11 +37,11 @@
 
     ```javascript
         "scripts": {
-            "dev" : "parcel src/index.html --port 3000"
+            "dev" : "parcel src/index.html --port 3000 --open chrome"
         },
     ```
 
-    in place of dev you can use any name you like and in place of 3000 you can use any port number you like but this are some industries best prectises so I have mentioned it here
+    in place of dev you can use any name you like and in place of 3000 you can use any port number you like but this are some industries best prectises so I have mentioned it here.Even if you want to open it in a perticular browser then you can use <code>--open chrome</code> or any other browser name.
 
     after this script you can run this script by this command
 
@@ -70,5 +70,27 @@
     ```
 
     this is a execption with this.
+
+## What parcel do for us
+
+parcel does a bunch of things so we can get optimal performance.So what are those things for us
+
+- it creates a localserver for us
+- it is doing HMR (Hot Module Replacement )
+- file watching algortihum - written in c++
+- gives dev build for us
+- faster builds - because of caching (you can see a dist(developemnt files) and .parcel-cache(production build) folder in the project that's where parcel make the caching 😂)
+- image optimaization
+- minification of files
+- bundling for us
+- compress files for us
+- consistent hashing
+- code spliting
+- diffrential bundling
+- dignistics (good error handling)
+- it gives us support to host our app on HTTPs
+- tree shaking algorithum (removes unused code)
+- different build for dev
+- different build  for production
 
 <!-- todo 1.10  -->
